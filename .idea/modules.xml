@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TaiWanMapSVG.iml" filepath="$PROJECT_DIR$/TaiWanMapSVG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaiWanMapSVG.iml" filepath="$PROJECT_DIR$/TaiWanMapSVG.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/click_animation/click_animation.iml" filepath="$PROJECT_DIR$/click_animation/click_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svg_map/svg_map.iml" filepath="$PROJECT_DIR$/svg_map/svg_map.iml" />
     </modules>
   </component>
 </project>
