@@ -1,7 +1,8 @@
 package com.liuxiaozhu.taiwanmapsvg;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * 使用SVG实现交互式地图选择器

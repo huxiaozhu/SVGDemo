@@ -8,12 +8,13 @@ import android.graphics.Paint;
 import android.graphics.Path;
 import android.os.Handler;
 import android.os.Message;
-import android.support.annotation.Nullable;
-import android.support.v4.view.GestureDetectorCompat;
 import android.util.AttributeSet;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
+
+import androidx.annotation.Nullable;
+import androidx.core.view.GestureDetectorCompat;
 
 import com.liuxiaozhu.taiwanmapsvg.R;
 import com.liuxiaozhu.taiwanmapsvg.bean.AreaItem;
