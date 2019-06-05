@@ -1,4 +1,4 @@
-# TaiWanMapSVG
+# SVGDemo
 SVG地图和点击动画的实现demo
 
 ## click_animation
